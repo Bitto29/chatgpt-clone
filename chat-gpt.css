@@ -157,6 +157,7 @@ p{
     height: 40px;
     width: 90%;
     border: none;
+    outline: none;
     margin-bottom: 0px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
@@ -190,6 +191,7 @@ p{
 
 
 .end-div-p{
+    width:100%;
     display: flex;
     justify-content: center;
     align-items: center;
