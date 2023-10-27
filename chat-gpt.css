@@ -161,6 +161,9 @@ p{
     margin-bottom: 0px;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+    padding-inline-start: 10px;
+    color: white;
+    font-size: 15px;
 }
 
 .message-box::placeholder{
